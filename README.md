@@ -7,7 +7,6 @@
 4. Click the button to go to Gemini or Deepseek
 5. Paste your prompt and let the AI interpret its meaning for you
 
-### Why 
 # Changelog:
 ## v1.1 (2026/03/20)
 -  Added reset button
