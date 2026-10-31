@@ -1,5 +1,9 @@
 # Tarot Card · 塔羅牌占卜
 
+[Link to Tarot Card Website](https://play-tarot-card.netlify.app/)
+
+A static, bilingual tarot website with a choice of 22 major arcana or all 78 cards, upright/reversed meanings, single-card readings, and a Past / Present / Future spread. Traditional Chinese and dark mode are the defaults.
+
 ## How to Use
 
 1. Enter your question, choose the **22-card major arcana** or **78-card full deck**, and select **Single-card guidance** or **Past / Present / Future**.
