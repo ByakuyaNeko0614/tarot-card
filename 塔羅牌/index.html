@@ -1,51 +1,96 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="zh-Hant" data-theme="dark">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark light">
+  <link rel="icon" href="data:,">
   <link rel="stylesheet" href="styles.css">
-  <title>塔羅牌占卜系統</title>
+  <title>塔羅牌占卜</title>
+  <script src="deck.js" defer></script>
+  <script src="script.js" defer></script>
 </head>
-
 <body>
-  <h1 class="title">🔮塔羅牌占卜🔮</h1>
-  <div>
-    <label for="question"></label>
-    <input type="text" id="question" placeholder="在心中默念疑問，並在此輸入...">
-  </div>
-  <p>抽一張第一眼就看中的牌</p>
-  <div id="cardSpread" class="cards-container">
-    <div class="tarot-card">
-      <div class="card-front"> [placeholder] </div>
-      <div class="card-back"> <img src="back.png" alt="卡背"> </div>
+  <header class="topbar">
+    <a class="brand" href="#main">✧ <span data-i18n="brand">白夜貓塔羅</span></a>
+    <div class="preferences">
+      <label class="sr-only" for="language" data-i18n="language">語言</label>
+      <select id="language" aria-label="Language"><option value="zh">Chinese</option><option value="en">English</option></select>
+      <button id="themeBtn" class="quiet-btn" type="button" aria-pressed="false">☀ 淺色模式</button>
     </div>
-    <div class="tarot-card">
-      <div class="card-front"> [placeholder] </div>
-      <div class="card-back"> <img src="back.png" alt="卡背"> </div>
+  </header>
+  <main id="main">
+    <div class="hero">
+    <div class="celestial-mark" aria-hidden="true">☾</div>
+    <p class="eyebrow" data-i18n="eyebrow">78 張牌・一段與自己的對話</p>
+    <h1 data-i18n="title">讓直覺，為你引路。</h1>
+    <p class="intro" data-i18n="intro">靜下心，讓直覺帶你找到此刻的指引。</p>
     </div>
-    <div class="tarot-card">
-      <div class="card-front"> [placeholder] </div>
-      <div class="card-back"> <img src="back.png" alt="卡背"> </div>
-    </div>
-    <div class="tarot-card">
-      <div class="card-front"> [placeholder] </div>
-      <div class="card-back"> <img src="back.png" alt="卡背"> </div>
-    </div>
-  </div>
-  <div id="result">
-    <h2 id="cardName">指引將在此顯現</h2>
-    <p id="hashtags"></p>
-    <p>👇複製以下指令找AI解牌：</p>
-    <textarea id="AIPrompt" readonly placeholder="AI占卜指令會自動在這裡生成..."></textarea>
-    <div class="action-buttons">
-      <button id="resetBtn" class="action-btn reset-btn">🔄 重置</button>
-      <button id="copyBtn" class="action-btn">📋 複製指令</button>
-      <a href="https://gemini.google.com/" target="_blank" class="action-btn gemini-btn">✨ Gemini解牌</a>
-      <a href="https://chat.deepseek.com/" target="_blank" class="action-btn deepseek-btn">🐳 Deepseek解牌</a>
-    </div>
-  </div>
-  <p>圖片皆由Gemini生成，網頁為白夜貓所創作</p>
-  <p>V1.3</p>
-  <script src="script.js"></script>
+    <ol class="journey" aria-label="Reading progress">
+      <li id="stepQuestion"><b>01</b><span data-i18n="stepQuestion">寫下問題</span></li>
+      <li id="stepDraw"><b>02</b><span data-i18n="stepDraw">憑直覺抽牌</span></li>
+      <li id="stepRead"><b>03</b><span data-i18n="stepRead">閱讀指引</span></li>
+    </ol>
+    <section class="question-section" aria-labelledby="questionLabel">
+      <label id="questionLabel" for="question" data-i18n="questionLabel">你想探索什麼？</label>
+      <input type="text" id="question" maxlength="2000" data-placeholder="questionPlaceholder" placeholder="在心中默念疑問，並在此輸入…" autocomplete="off">
+      <p id="questionError" class="question-error" role="alert" hidden></p>
+      <div id="questionIdeas" class="question-ideas">
+        <span data-i18n="ideas">還沒有靈感？</span>
+        <button type="button" data-question="ideaGrowth" data-i18n="topicGrowth">自我成長</button>
+        <button type="button" data-question="ideaWork" data-i18n="topicWork">工作方向</button>
+        <button type="button" data-question="ideaLove" data-i18n="topicLove">關係探索</button>
+      </div>
+      <div class="reading-settings">
+      <div class="deck-picker">
+        <label for="deckType" data-i18n="deckLabel">選擇牌組</label>
+        <select id="deckType">
+          <option value="major" data-i18n="majorDeck">22 張・大阿爾克那</option>
+          <option value="full" selected data-i18n="fullDeck">78 張・完整牌組</option>
+        </select>
+      </div>
+      <fieldset class="mode-picker">
+        <legend data-i18n="spreadLabel">選擇牌陣</legend>
+        <label><input type="radio" name="mode" value="single" checked><span data-i18n="single">單張指引</span></label>
+        <label><input type="radio" name="mode" value="three"><span data-i18n="three">過去・現在・未來</span></label>
+      </fieldset>
+      </div>
+      <p class="settings-note" data-i18n="settingsNote">更換牌組或牌陣會重新開始這次占卜。</p>
+    </section>
+    <section class="draw-stage" aria-labelledby="drawInstruction">
+    <p id="drawInstruction"></p>
+    <p id="progress" class="progress" role="status"></p>
+    <div id="cardSpread" class="cards-container" aria-label="塔羅牌"></div>
+    <a id="readingLink" class="reading-link" href="#result" data-i18n="readResult" hidden>查看我的指引 ↓</a>
+    </section>
+    <section id="result" class="result-section" aria-labelledby="cardName">
+      <div class="result-heading"><span class="eyebrow" data-i18n="reading">你的牌面</span><h2 id="cardName">指引將在此顯現</h2></div>
+      <div id="readingCards" aria-live="polite"></div>
+      <p id="emptyHint" class="empty-hint" data-i18n="emptyHint">每一次提問，都是重新認識自己的起點。你的牌義會在抽牌後出現在這裡。</p>
+      <div id="interpretationTools" hidden>
+      <p class="interpretation-intro" data-i18n="interpretationIntro">想再深入一點？複製指令後，開啟 AI 並貼上，延續這段探索。</p>
+      <details class="prompt-details" open><summary data-i18n="showPrompt">查看解讀指令</summary>
+      <label class="prompt-label" for="AIPrompt" data-i18n="promptLabel">複製以下指令，請 AI 為你解牌：</label>
+      <textarea id="AIPrompt" readonly data-placeholder="promptPlaceholder" placeholder="完成抽牌後，AI 占卜指令會顯示在這裡…"></textarea>
+      </details>
+      <div class="action-buttons">
+        <button id="copyBtn" class="action-btn primary" type="button" disabled data-i18n="copy">📋 複製指令</button>
+        <a href="https://gemini.google.com/" target="_blank" rel="noopener noreferrer" class="action-btn" data-i18n="gemini">✨ Gemini ↗</a>
+        <a href="https://chat.deepseek.com/" target="_blank" rel="noopener noreferrer" class="action-btn" data-i18n="deepseek">🐳 DeepSeek ↗</a>
+      </div>
+      </div>
+      <p id="notice" class="notice" role="status"></p>
+      <div class="reset-controls">
+        <label><input id="keepQuestion" type="checkbox" checked><span data-i18n="keepQuestion">重置時保留問題</span></label>
+        <button id="resetBtn" class="quiet-btn" type="button" data-i18n="reset">↻ 重新洗牌</button>
+      </div>
+    </section>
+    <details id="changelog" class="changelog"><summary data-i18n="changelog">更新紀錄</summary><div id="changelogContent"></div></details>
+  </main>
+  <dialog id="cardPreview" aria-labelledby="previewTitle">
+    <div class="preview-header"><h2 id="previewTitle"></h2><button id="closePreview" class="quiet-btn" type="button" data-i18n="closePreview">關閉</button></div>
+    <img id="previewImage" alt="">
+  </dialog>
+  <footer><p data-i18n="credits">大阿爾克那圖片由 Gemini 生成；小阿爾克那圖片由 ChatGPT 生成。網頁由白夜貓創作。</p><p>v2.0</p></footer>
 </body>
-
 </html>
