@@ -20,6 +20,17 @@ The mobile layout uses compact controls, six cards in two rows, 44px touch targe
 
 The interface follows a three-step reading flow with a midnight-blue / champagne-gold palette (and a warm light theme). Optional question suggestions help you get started; validation appears beside the question. Completed readings include artwork thumbnails and a direct link to the results. AI tools appear after the spread is complete, with the generated prompt in an expandable panel that is open by default. If automatic copying fails, that panel opens and selects the prompt for manual copying.
 
+## Deploy with GitHub Pages
+
+Keep the website in `塔羅牌/`; no files need to move. The workflow at `.github/workflows/deploy.yml` uploads only that folder, excluding tools, tests, and artwork backups from the published site.
+
+1. Upload the workflow and website files to the `main` branch of `ByakuyaNeko0614/tarot-card`.
+2. In the repository's **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions**.
+3. Open **Actions → Deploy tarot website to GitHub Pages → Run workflow** for the first deployment. Later changes to `塔羅牌/` on `main` deploy automatically.
+4. After deployment succeeds, the expected address is `https://byakuyaneko0614.github.io/tarot-card/`.
+
+The `.gitignore` excludes local `artifacts/` backups and previews from future Git additions. Files already tracked on GitHub are unaffected; they are not included in the Pages upload.
+
 ## Changelog
 
 ### v2.0 (2026/10/31)
