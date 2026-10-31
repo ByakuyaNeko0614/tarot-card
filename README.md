@@ -1,6 +1,6 @@
 # Tarot Card · 塔羅牌占卜
 
-[Link to Tarot Card Website](https://play-tarot-card.netlify.app/)
+[Link to Tarot Card Website](https://byakuyaneko0614.github.io/tarot-card/)
 
 A static, bilingual tarot website with a choice of 22 major arcana or all 78 cards, upright/reversed meanings, single-card readings, and a Past / Present / Future spread. Traditional Chinese and dark mode are the defaults.
 
