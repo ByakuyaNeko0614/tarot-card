@@ -29,7 +29,7 @@ Keep the website in `塔羅牌/`; no files need to move. The workflow at `.githu
 3. Open **Actions → Deploy tarot website to GitHub Pages → Run workflow** for the first deployment. Later changes to `塔羅牌/` on `main` deploy automatically.
 4. After deployment succeeds, the expected address is `https://byakuyaneko0614.github.io/tarot-card/`.
 
-The `.gitignore` excludes local `artifacts/` backups and previews from future Git additions. Files already tracked on GitHub are unaffected; they are not included in the Pages upload.
+The `.gitignore` keeps generated screenshots and original artwork backups in `artifacts/` local. Browser checks recreate their screenshots there when needed. Only `塔羅牌/` is published; tests, maintenance tools, and generation records remain in the repository for future work.
 
 ## Changelog
 
