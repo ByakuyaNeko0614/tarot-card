@@ -1,0 +1,275 @@
+{
+  "suit": "Pentacles",
+  "generator": "ChatGPT built-in image generation",
+  "references": [
+    "塔羅牌/fool.png",
+    "塔羅牌/magician.png"
+  ],
+  "promptManifest": "tools/card-art-prompts.json",
+  "cards": [
+    {
+      "id": "pentacles-1",
+      "file": "artifacts/card-art-originals/pentacles-1.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-aaed3133-ef27-4d1b-b840-81016d04f2e5.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ace of Pentacles. Scene: A luminous hand emerges from a cloud holding ONE large golden coin engraved with a five-point star over a lush garden arch and distant mountains, tangible opportunity. Bottom parchment exact text on TWO lines: \"錢幣王牌 (Ace of Pentacles)\" and \"#新機會 #富足 #穩固起點\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "attempts": [
+        {
+          "id": "pentacles-1",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-aaed3133-ef27-4d1b-b840-81016d04f2e5.png",
+          "file": "artifacts/card-art-originals/pentacles-1.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-1",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ace of Pentacles. Scene: A luminous hand emerges from a cloud holding ONE large golden coin engraved with a five-point star over a lush garden arch and distant mountains, tangible opportunity. Bottom parchment exact text on TWO lines: \"錢幣王牌 (Ace of Pentacles)\" and \"#新機會 #富足 #穩固起點\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-2",
+      "file": "artifacts/card-art-originals/pentacles-2.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-dea41ef9-701a-4477-91cd-8874acf29be7.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Two of Pentacles. Scene: A young juggler balances EXACTLY TWO golden pentacle coins joined by a flowing infinity ribbon, two ships ride waves behind, adaptability and balance. Bottom parchment exact text on TWO lines: \"錢幣二 (Two of Pentacles)\" and \"#平衡 #適應 #多重任務\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "attempts": [
+        {
+          "id": "pentacles-2",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-dea41ef9-701a-4477-91cd-8874acf29be7.png",
+          "file": "artifacts/card-art-originals/pentacles-2.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-2",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Two of Pentacles. Scene: A young juggler balances EXACTLY TWO golden pentacle coins joined by a flowing infinity ribbon, two ships ride waves behind, adaptability and balance. Bottom parchment exact text on TWO lines: \"錢幣二 (Two of Pentacles)\" and \"#平衡 #適應 #多重任務\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-3",
+      "file": "artifacts/card-art-originals/pentacles-3.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-d2a8132d-3f18-4753-b09f-161e5b37e4c6.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Three of Pentacles. Scene: Three collaborators, a stone mason with tools and two advisers, discuss plans in a cathedral arch displaying EXACTLY THREE golden pentacle coins, craftsmanship and teamwork. Bottom parchment exact text on TWO lines: \"錢幣三 (Three of Pentacles)\" and \"#團隊合作 #技藝 #學習\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "attempts": [
+        {
+          "id": "pentacles-3",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-d2a8132d-3f18-4753-b09f-161e5b37e4c6.png",
+          "file": "artifacts/card-art-originals/pentacles-3.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-3",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Three of Pentacles. Scene: Three collaborators, a stone mason with tools and two advisers, discuss plans in a cathedral arch displaying EXACTLY THREE golden pentacle coins, craftsmanship and teamwork. Bottom parchment exact text on TWO lines: \"錢幣三 (Three of Pentacles)\" and \"#團隊合作 #技藝 #學習\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-4",
+      "file": "artifacts/card-art-originals/pentacles-4.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-bee0217b-9ae1-4d7d-8ae1-de1654891fe9.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Four of Pentacles. Scene: A seated merchant holds ONE golden pentacle coin close to the chest, TWO rest beneath the feet and ONE crowns the head, EXACTLY FOUR coins, guarded security. Bottom parchment exact text on TWO lines: \"錢幣四 (Four of Pentacles)\" and \"#穩定 #儲蓄 #守成\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-4",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-bee0217b-9ae1-4d7d-8ae1-de1654891fe9.png",
+          "file": "artifacts/card-art-originals/pentacles-4.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-4",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Four of Pentacles. Scene: A seated merchant holds ONE golden pentacle coin close to the chest, TWO rest beneath the feet and ONE crowns the head, EXACTLY FOUR coins, guarded security. Bottom parchment exact text on TWO lines: \"錢幣四 (Four of Pentacles)\" and \"#穩定 #儲蓄 #守成\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-5",
+      "file": "artifacts/card-art-originals/pentacles-5.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-47e4dd34-0bc6-43f0-a4b2-1c4c56473cb8.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Five of Pentacles. Scene: Two weary travelers in worn cloaks walk through snow past a glowing stained-glass window containing EXACTLY FIVE golden pentacle coins, hardship and nearby refuge. Bottom parchment exact text on TWO lines: \"錢幣五 (Five of Pentacles)\" and \"#困頓 #匱乏 #孤立\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-5",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-47e4dd34-0bc6-43f0-a4b2-1c4c56473cb8.png",
+          "file": "artifacts/card-art-originals/pentacles-5.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-5",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Five of Pentacles. Scene: Two weary travelers in worn cloaks walk through snow past a glowing stained-glass window containing EXACTLY FIVE golden pentacle coins, hardship and nearby refuge. Bottom parchment exact text on TWO lines: \"錢幣五 (Five of Pentacles)\" and \"#困頓 #匱乏 #孤立\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-6",
+      "file": "artifacts/card-art-originals/pentacles-6.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-9406347a-b55a-4a7a-af55-a556589ce8ad.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: precise-object-edit. The input tarot card is the edit target. Correct ONLY the pentacle medallion count: there are currently FIVE large golden pentacle coins floating above the merchant. Make them EXACTLY SIX by adding ONE matching golden pentacle medallion in the navy sky, arranging SIX clearly separated coins as two vertical columns of three flanking his upper body. Keep all six above the figures, with readable five-point star engraving. Preserve the merchant with scales giving tiny plain charity coins to two people, the existing gold frame, celestial ornament, navy palette, all faces, bodies, scenery, hand-inked style and entire bottom parchment wording unchanged: \"錢幣六 (Six of Pentacles)\" and \"#慷慨 #互助 #給予\". Tiny charity discs are plain circles and do not count as pentacles. No other changes. Keep crisp detail and full portrait card.",
+      "attempts": [
+        {
+          "id": "pentacles-6",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-669621dc-7e76-4a46-b9f3-706866cc64e1.png",
+          "file": "artifacts/card-art-originals/pentacles-6.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-6",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Six of Pentacles. Scene: A generous merchant holds balanced scales and gives coins to two kneeling people, EXACTLY SIX golden pentacle medallions clearly visible in the upper scene, reciprocity and generosity. Bottom parchment exact text on TWO lines: \"錢幣六 (Six of Pentacles)\" and \"#慷慨 #互助 #給予\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        },
+        {
+          "id": "pentacles-6",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-9406347a-b55a-4a7a-af55-a556589ce8ad.png",
+          "file": "artifacts/card-art-originals/pentacles-6.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-6",
+          "prompt": "Use case: precise-object-edit. The input tarot card is the edit target. Correct ONLY the pentacle medallion count: there are currently FIVE large golden pentacle coins floating above the merchant. Make them EXACTLY SIX by adding ONE matching golden pentacle medallion in the navy sky, arranging SIX clearly separated coins as two vertical columns of three flanking his upper body. Keep all six above the figures, with readable five-point star engraving. Preserve the merchant with scales giving tiny plain charity coins to two people, the existing gold frame, celestial ornament, navy palette, all faces, bodies, scenery, hand-inked style and entire bottom parchment wording unchanged: \"錢幣六 (Six of Pentacles)\" and \"#慷慨 #互助 #給予\". Tiny charity discs are plain circles and do not count as pentacles. No other changes. Keep crisp detail and full portrait card.",
+          "correction": true
+        }
+      ],
+      "visualQA": "Corrected five upper medallions to six; six visible in two columns of three."
+    },
+    {
+      "id": "pentacles-7",
+      "file": "artifacts/card-art-originals/pentacles-7.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-7870af2b-98b9-4b18-a1ca-c4d20565b6ac.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Seven of Pentacles. Scene: A patient gardener leans on a wooden hoe contemplating a vine bearing EXACTLY SEVEN golden pentacle coins, effort, waiting and long-term growth. Bottom parchment exact text on TWO lines: \"錢幣七 (Seven of Pentacles)\" and \"#耐心 #耕耘 #長期投資\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-7",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-7870af2b-98b9-4b18-a1ca-c4d20565b6ac.png",
+          "file": "artifacts/card-art-originals/pentacles-7.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-7",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Seven of Pentacles. Scene: A patient gardener leans on a wooden hoe contemplating a vine bearing EXACTLY SEVEN golden pentacle coins, effort, waiting and long-term growth. Bottom parchment exact text on TWO lines: \"錢幣七 (Seven of Pentacles)\" and \"#耐心 #耕耘 #長期投資\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-8",
+      "file": "artifacts/card-art-originals/pentacles-8.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-26df9844-a051-4ab2-8d75-9dbc002d462d.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: precise-object-edit. The supplied tarot card is the edit target. Correct ONLY its pentacle count. Currently SEVEN finished golden pentacle coins hang vertically on the wooden post on the right, plus TWO coins lie on the bench. REMOVE ONLY THE LOWEST (seventh) hanging coin and naturally fill its position with matching wood grain, so EXACTLY SIX pentacles remain on the post, ONE on the bench being engraved, and ONE on the left of the bench: EXACTLY EIGHT LARGE PENTACLES TOTAL. Do not add any other coin anywhere. Preserve every other part of the artwork, artisan, tools, celestial background, navy/gold frame, composition, and parchment text verbatim: \"錢幣八 (Eight of Pentacles)\" and \"#勤奮 #精進 #專注\". Keep same sharp illustration quality, flat full portrait card.",
+      "attempts": [
+        {
+          "id": "pentacles-8",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-abbcd570-2a07-4da2-81ca-f58ede899707.png",
+          "file": "artifacts/card-art-originals/pentacles-8.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-8",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Eight of Pentacles. Scene: A focused artisan seated at a workbench engraves ONE golden pentacle coin, SIX finished coins hang vertically on a wooden post and ONE rests nearby, EXACTLY EIGHT coins, devoted craftsmanship. Bottom parchment exact text on TWO lines: \"錢幣八 (Eight of Pentacles)\" and \"#勤奮 #精進 #專注\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        },
+        {
+          "id": "pentacles-8",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-26df9844-a051-4ab2-8d75-9dbc002d462d.png",
+          "file": "artifacts/card-art-originals/pentacles-8.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-8",
+          "prompt": "Use case: precise-object-edit. The supplied tarot card is the edit target. Correct ONLY its pentacle count. Currently SEVEN finished golden pentacle coins hang vertically on the wooden post on the right, plus TWO coins lie on the bench. REMOVE ONLY THE LOWEST (seventh) hanging coin and naturally fill its position with matching wood grain, so EXACTLY SIX pentacles remain on the post, ONE on the bench being engraved, and ONE on the left of the bench: EXACTLY EIGHT LARGE PENTACLES TOTAL. Do not add any other coin anywhere. Preserve every other part of the artwork, artisan, tools, celestial background, navy/gold frame, composition, and parchment text verbatim: \"錢幣八 (Eight of Pentacles)\" and \"#勤奮 #精進 #專注\". Keep same sharp illustration quality, flat full portrait card.",
+          "correction": true
+        }
+      ],
+      "visualQA": "Removed the seventh hanging medallion; six on post plus two on bench equals eight."
+    },
+    {
+      "id": "pentacles-9",
+      "file": "artifacts/card-art-originals/pentacles-9.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-051482d3-b84c-44c3-801e-a16d202fcdd5.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Nine of Pentacles. Scene: An elegant independent woman in gold and navy robes stands in a lush vineyard with a hooded falcon on her glove and EXACTLY NINE golden pentacle coins among the vines, earned abundance. Bottom parchment exact text on TWO lines: \"錢幣九 (Nine of Pentacles)\" and \"#自立 #富足 #享受成果\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-9",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-051482d3-b84c-44c3-801e-a16d202fcdd5.png",
+          "file": "artifacts/card-art-originals/pentacles-9.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-9",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Nine of Pentacles. Scene: An elegant independent woman in gold and navy robes stands in a lush vineyard with a hooded falcon on her glove and EXACTLY NINE golden pentacle coins among the vines, earned abundance. Bottom parchment exact text on TWO lines: \"錢幣九 (Nine of Pentacles)\" and \"#自立 #富足 #享受成果\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-10",
+      "file": "artifacts/card-art-originals/pentacles-10.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-73ef54c2-57a9-4af3-a419-1934554c27e0.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: precise-object-edit. The supplied tarot card is the edit target. Correct ONLY its pentacle count: the stone arch currently contains NINE large gold pentacle medallions. ADD EXACTLY ONE MATCHING GOLD PENTACLE MEDALLION onto the lower-left stone arch, below the existing lowest-left medallion and above the elder's head, so the arch displays EXACTLY TEN pentacle medallions total. The added medallion must match the others with a centered five-point star, same scale and material. Preserve the existing nine coins, whole family, two dogs, arch scenery, ornate gold/navy frame and starry sky, ink illustration style, and bottom parchment text unchanged: \"錢幣十 (Ten of Pentacles)\" and \"#傳承 #保障 #長遠穩定\". No other changes. Full portrait card, crisp drawing.",
+      "attempts": [
+        {
+          "id": "pentacles-10",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-cc1a1faf-7c6e-4b23-ae36-e90485e2977b.png",
+          "file": "artifacts/card-art-originals/pentacles-10.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-10",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ten of Pentacles. Scene: A multigenerational family with an elder in a patterned cloak, parents, a child, and two dogs gathers beneath an old stone arch with EXACTLY TEN golden pentacle coins, legacy and lasting stability. Bottom parchment exact text on TWO lines: \"錢幣十 (Ten of Pentacles)\" and \"#傳承 #保障 #長遠穩定\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        },
+        {
+          "id": "pentacles-10",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-73ef54c2-57a9-4af3-a419-1934554c27e0.png",
+          "file": "artifacts/card-art-originals/pentacles-10.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-10",
+          "prompt": "Use case: precise-object-edit. The supplied tarot card is the edit target. Correct ONLY its pentacle count: the stone arch currently contains NINE large gold pentacle medallions. ADD EXACTLY ONE MATCHING GOLD PENTACLE MEDALLION onto the lower-left stone arch, below the existing lowest-left medallion and above the elder's head, so the arch displays EXACTLY TEN pentacle medallions total. The added medallion must match the others with a centered five-point star, same scale and material. Preserve the existing nine coins, whole family, two dogs, arch scenery, ornate gold/navy frame and starry sky, ink illustration style, and bottom parchment text unchanged: \"錢幣十 (Ten of Pentacles)\" and \"#傳承 #保障 #長遠穩定\". No other changes. Full portrait card, crisp drawing.",
+          "correction": true
+        }
+      ],
+      "visualQA": "Added one medallion to arch; ten large medallions now visible."
+    },
+    {
+      "id": "pentacles-11",
+      "file": "artifacts/card-art-originals/pentacles-11.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-baeb340e-70cb-40c4-bd11-04c5ffd7a31d.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Page of Pentacles. Scene: A thoughtful young scholar in a green and ochre tunic holds ONE golden pentacle coin with both hands in a green field, mountains and flowers behind, learning and practical goals. Bottom parchment exact text on TWO lines: \"錢幣侍者 (Page of Pentacles)\" and \"#務實 #學習 #新目標\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-11",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-baeb340e-70cb-40c4-bd11-04c5ffd7a31d.png",
+          "file": "artifacts/card-art-originals/pentacles-11.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-11",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Page of Pentacles. Scene: A thoughtful young scholar in a green and ochre tunic holds ONE golden pentacle coin with both hands in a green field, mountains and flowers behind, learning and practical goals. Bottom parchment exact text on TWO lines: \"錢幣侍者 (Page of Pentacles)\" and \"#務實 #學習 #新目標\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-12",
+      "file": "artifacts/card-art-originals/pentacles-12.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-b9323f7f-332d-4043-8cf1-9d7cca7177c0.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Knight of Pentacles. Scene: A steady armored knight on a dark horse holds ONE golden pentacle coin above a plowed field, quiet starry evening, reliability and patient progress. Bottom parchment exact text on TWO lines: \"錢幣騎士 (Knight of Pentacles)\" and \"#可靠 #耐心 #穩步前進\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-12",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-b9323f7f-332d-4043-8cf1-9d7cca7177c0.png",
+          "file": "artifacts/card-art-originals/pentacles-12.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-12",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Knight of Pentacles. Scene: A steady armored knight on a dark horse holds ONE golden pentacle coin above a plowed field, quiet starry evening, reliability and patient progress. Bottom parchment exact text on TWO lines: \"錢幣騎士 (Knight of Pentacles)\" and \"#可靠 #耐心 #穩步前進\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-13",
+      "file": "artifacts/card-art-originals/pentacles-13.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-70515f90-e697-4e87-b102-e6b8424675f5.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Queen of Pentacles. Scene: A nurturing queen in earthy gold and blue robes sits on a floral throne holding ONE golden pentacle coin in her lap, a rabbit, roses and abundant garden, comfort and care. Bottom parchment exact text on TWO lines: \"錢幣皇后 (Queen of Pentacles)\" and \"#照顧 #務實 #生活富足\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-13",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-70515f90-e697-4e87-b102-e6b8424675f5.png",
+          "file": "artifacts/card-art-originals/pentacles-13.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-13",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Queen of Pentacles. Scene: A nurturing queen in earthy gold and blue robes sits on a floral throne holding ONE golden pentacle coin in her lap, a rabbit, roses and abundant garden, comfort and care. Bottom parchment exact text on TWO lines: \"錢幣皇后 (Queen of Pentacles)\" and \"#照顧 #務實 #生活富足\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+          "correction": false
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    },
+    {
+      "id": "pentacles-14",
+      "file": "artifacts/card-art-originals/pentacles-14.png",
+      "acceptedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-0f56c5cd-157e-441f-96d5-a248c7994ce1.png",
+      "method": "built-in image_gen.imagegen",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: King of Pentacles. Scene: A successful king in richly patterned navy and ochre robes sits on a throne with bull carvings holding ONE golden pentacle coin and a scepter, vineyard and castle behind, stable stewardship. Bottom parchment exact text on TWO lines: \"錢幣國王 (King of Pentacles)\" and \"#成就 #穩定 #慷慨\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "attempts": [
+        {
+          "id": "pentacles-14",
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-772a-7ae3-bffd-344c204843f9\\exec-0f56c5cd-157e-441f-96d5-a248c7994ce1.png",
+          "file": "artifacts/card-art-originals/pentacles-14.png",
+          "promptRef": "tools/card-art-prompts.json#pentacles-14",
+          "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: King of Pentacles. Scene: A successful king in richly patterned navy and ochre robes sits on a throne with bull carvings holding ONE golden pentacle coin and a scepter, vineyard and castle behind, stable stewardship. Bottom parchment exact text on TWO lines: \"錢幣國王 (King of Pentacles)\" and \"#成就 #穩定 #慷慨\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+          "correction": false
+        }
+      ],
+      "visualQA": "Verified sharp narrative illustration, bilingual parchment label and expected primary symbol count."
+    }
+  ]
+}

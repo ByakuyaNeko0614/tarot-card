@@ -1,0 +1,179 @@
+{
+  "generator": "ChatGPT built-in image generation (image_gen__imagegen)",
+  "referenceImages": [
+    "塔羅牌/fool.png",
+    "塔羅牌/magician.png"
+  ],
+  "promptManifest": "tools/card-art-prompts.json",
+  "finalCount": 14,
+  "validation": "Inspected every generated output for navy/gold engraved style, readable Traditional Chinese / English parchment labels, primary subject and symbolic cup count. First cups-6 had five cups; targeted edit added a sixth and preserves the existing composition.",
+  "generations": [
+    {
+      "id": "cups-3",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-8d88f646-15fa-4ba2-a99e-bec56c66ac9b.png",
+      "file": "artifacts/card-art-originals/cups-3.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Three of Cups. Scene: Three joyful friends dance in a garden raising THREE golden chalices together, flowering vines and fruit at their feet, friendship and shared celebration. Bottom parchment exact text on TWO lines: \"聖杯三 (Three of Cups)\" and \"#友誼 #歡聚 #合作\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-2",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-b5205ae4-b4f9-4262-bd80-776d1236312d.png",
+      "file": "artifacts/card-art-originals/cups-2.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Two of Cups. Scene: Two people face each other by a river exchanging TWO golden chalices, a winged lion and caduceus above them, mutual affection and partnership. Bottom parchment exact text on TWO lines: \"聖杯二 (Two of Cups)\" and \"#連結 #夥伴 #相互吸引\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-1",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-e1880b64-f331-47c0-b873-0eb9cb700f9b.png",
+      "file": "artifacts/card-art-originals/cups-1.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ace of Cups. Scene: A luminous hand emerges from a cloud holding ONE ornate golden chalice overflowing with five streams into a lily pond, a white dove above, emotional openness and grace. Bottom parchment exact text on TWO lines: \"聖杯王牌 (Ace of Cups)\" and \"#新感情 #直覺 #情感流動\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-5",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-59ec6e59-39ec-41b7-ab86-89ed6e636cb8.png",
+      "file": "artifacts/card-art-originals/cups-5.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Five of Cups. Scene: A cloaked figure bows in grief beside THREE spilled golden cups; TWO intact chalices remain behind them, a bridge and distant castle in the landscape, EXACTLY FIVE cups. Bottom parchment exact text on TWO lines: \"聖杯五 (Five of Cups)\" and \"#失落 #遺憾 #悲傷\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-4",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-bda0bd6b-7bc9-4070-8557-b95ffedad86e.png",
+      "file": "artifacts/card-art-originals/cups-4.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Four of Cups. Scene: A pensive seated person beneath a leafy tree looks away from THREE golden cups on the ground while a cloud offers a FOURTH chalice, contemplation and missed opportunity. Bottom parchment exact text on TWO lines: \"聖杯四 (Four of Cups)\" and \"#沉思 #冷淡 #重新評估\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-6",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-9e630239-df40-4627-85d7-870920eb10b0.png",
+      "file": "artifacts/card-art-originals/cups-6.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Six of Cups. Scene: A gentle young person gives a flower-filled chalice to a companion in an old village courtyard with FOUR more chalices and one behind; EXACTLY SIX flower-filled golden cups, memory and kindness. Bottom parchment exact text on TWO lines: \"聖杯六 (Six of Cups)\" and \"#回憶 #純真 #舊日連結\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "selected": false,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-9",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-0d607bc5-1c1f-409c-bc89-3f370ee3b925.png",
+      "file": "artifacts/card-art-originals/cups-9.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Nine of Cups. Scene: A contented person in a blue robe sits with arms folded before a curved display of EXACTLY NINE golden chalices, satisfied expression and warm lamplight. Bottom parchment exact text on TWO lines: \"聖杯九 (Nine of Cups)\" and \"#滿足 #願望實現 #享受\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-7",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-e58cb2a8-992d-48ed-b01f-af94bfd0e2c0.png",
+      "file": "artifacts/card-art-originals/cups-7.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Seven of Cups. Scene: A dreamer gazes at EXACTLY SEVEN floating golden chalices in clouds, each holding one symbolic vision: a castle, jewels, laurel, dragon, snake, veiled figure, and face; choices and fantasy. Bottom parchment exact text on TWO lines: \"聖杯七 (Seven of Cups)\" and \"#選擇 #幻想 #想像力\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-8",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-d0bdb67f-1e5d-4cb6-a7d3-92bfb4ea97e2.png",
+      "file": "artifacts/card-art-originals/cups-8.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Eight of Cups. Scene: A cloaked traveler with a walking stick leaves behind EXACTLY EIGHT golden cups arranged in the foreground and climbs toward distant mountains under an eclipsed moon, seeking deeper meaning. Bottom parchment exact text on TWO lines: \"聖杯八 (Eight of Cups)\" and \"#離開 #尋求意義 #放手\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-11",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-c439af69-908b-4219-9137-7e04c71375c2.png",
+      "file": "artifacts/card-art-originals/cups-11.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Page of Cups. Scene: A curious young messenger in blue and dusty rose clothes holds ONE golden chalice with a small fish peeking from it, calm sea and starry sky behind, imaginative tenderness. Bottom parchment exact text on TWO lines: \"聖杯侍者 (Page of Cups)\" and \"#好奇 #情感訊息 #創意\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-10",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-01e435a5-ac19-49b2-8cb7-b550154b7036.png",
+      "file": "artifacts/card-art-originals/cups-10.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ten of Cups. Scene: A loving family with two adults and two children stands by a stream and home beneath a celestial rainbow bearing EXACTLY TEN golden chalices, emotional fulfillment. Bottom parchment exact text on TWO lines: \"聖杯十 (Ten of Cups)\" and \"#幸福 #家庭 #情感圓滿\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-12",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-31901e1b-a908-4d4e-8115-a6f56ff57c8a.png",
+      "file": "artifacts/card-art-originals/cups-12.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Knight of Cups. Scene: A courteous armored knight rides a white horse beside a river, calmly extending ONE golden chalice, flowing blue cloak and romantic invitation. Bottom parchment exact text on TWO lines: \"聖杯騎士 (Knight of Cups)\" and \"#浪漫 #邀請 #追隨內心\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-13",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-08486361-ce5c-460f-b6df-3b3749292ee6.png",
+      "file": "artifacts/card-art-originals/cups-13.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Queen of Cups. Scene: A compassionate queen in sea-blue robes sits on an ornate shell throne beside the sea holding ONE intricately lidded golden chalice, deep intuition and care. Bottom parchment exact text on TWO lines: \"聖杯皇后 (Queen of Cups)\" and \"#同理心 #關懷 #直覺\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "edit": false,
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-14",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-9076862d-7398-4704-bbb5-eff063878f8f.png",
+      "file": "artifacts/card-art-originals/cups-14.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: King of Cups. Scene: A composed king sits on a stone throne above waves, holding ONE golden chalice and a royal scepter, a ship and fish in the distant sea, emotional steadiness. Bottom parchment exact text on TWO lines: \"聖杯國王 (King of Cups)\" and \"#情緒平衡 #同理心 #沉著\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "edit": false,
+      "selected": true,
+      "referenceImages": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ]
+    },
+    {
+      "id": "cups-6",
+      "path": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-4f87-7ce0-b6bb-1407578d6e29\\exec-21000722-42d8-416b-aae5-03935a3f6fc5.png",
+      "file": "artifacts/card-art-originals/cups-6.png",
+      "prompt": "Use case: precise-object-edit. Edit ONLY the supplied Six of Cups tarot card to correct its cup count. It currently contains FIVE flower-filled golden chalices: the one held between the children, one on the left, and three at the bottom. ADD exactly ONE clearly visible flower-filled golden chalice on a stone step in the background, just above and to the right of the held chalice, left of the girl’s head, without covering either child. Final image must show SIX chalices total. Match the added chalice to the same antique gold inked illustration. Keep ALL existing five cups, both children, the village, the navy starry sky, the entire gold border, the parchment and exact text \"聖杯六 (Six of Cups)\" / \"#回憶 #純真 #舊日連結\" unchanged. No other changes. Preserve resolution and sharpness. Do not redraw the whole card.",
+      "edit": true,
+      "selected": true,
+      "referenceImages": [
+        "artifacts/card-art-originals/cups-6.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "generator": "ChatGPT built-in image generation",
+  "promptSource": "tools/card-art-prompts.json",
+  "cards": [
+    {
+      "id": "swords-1",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-244fe426-2bdd-42c1-a29e-054ee06379e9.png",
+      "file": "artifacts/card-art-originals/swords-1.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ace of Swords. Scene: A luminous hand emerges from a cloud holding ONE upright silver sword through a golden crown with olive and palm sprigs, rugged mountains below, clarity and truth. Bottom parchment exact text on TWO lines: \"寶劍王牌 (Ace of Swords)\" and \"#清晰 #真相 #新思維\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 989,
+      "height": 1591,
+      "bytes": 3322267,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-2",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-033f8479-8cb2-4c30-b2d1-d599cec1b96a.png",
+      "file": "artifacts/card-art-originals/swords-2.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Two of Swords. Scene: A blindfolded woman in a pale blue robe sits on a stone bench holding EXACTLY TWO crossed silver swords before her chest, a calm sea and crescent moon behind, difficult balance. Bottom parchment exact text on TWO lines: \"寶劍二 (Two of Swords)\" and \"#僵局 #兩難 #權衡\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 989,
+      "height": 1591,
+      "bytes": 3153359,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-3",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-23afe7b3-a7f7-4381-bed3-02438da97316.png",
+      "file": "artifacts/card-art-originals/swords-3.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Three of Swords. Scene: ONE large red heart pierced by EXACTLY THREE silver swords hangs against storm clouds and rain, symbolic sorrow, no bodily injury or gore. Bottom parchment exact text on TWO lines: \"寶劍三 (Three of Swords)\" and \"#心痛 #悲傷 #分離\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 989,
+      "height": 1591,
+      "bytes": 3382938,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-4",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-07c5c90d-aa49-4089-9e35-3398fbfaaa74.png",
+      "file": "artifacts/card-art-originals/swords-4.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Four of Swords. Scene: A peaceful resting knight lies on a carved stone tomb in a quiet chapel, THREE silver swords hang on the wall and ONE lies beside the tomb, EXACTLY FOUR swords, recovery and stillness. Bottom parchment exact text on TWO lines: \"寶劍四 (Four of Swords)\" and \"#休息 #修復 #靜思\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 989,
+      "height": 1591,
+      "bytes": 3265910,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-5",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-cbab534c-195c-489f-9b36-e47016769514.png",
+      "file": "artifacts/card-art-originals/swords-5.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Five of Swords. Scene: A conflicted person holds THREE silver swords beside a shoreline while TWO lie on the ground; two distant figures walk away, EXACTLY FIVE swords, the cost of winning. Bottom parchment exact text on TWO lines: \"寶劍五 (Five of Swords)\" and \"#衝突 #代價 #爭勝\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 989,
+      "height": 1591,
+      "bytes": 3261798,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-6",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-d9573751-9f63-4c79-894b-259073568295.png",
+      "file": "artifacts/card-art-originals/swords-6.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Six of Swords. Scene: A boat carries a cloaked adult and child across a quiet river, a ferryman guides them with a WOODEN OAR, EXACTLY SIX silver swords stand inside the boat, transition toward calm. Bottom parchment exact text on TWO lines: \"寶劍六 (Six of Swords)\" and \"#過渡 #離開困境 #療癒\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 991,
+      "height": 1587,
+      "bytes": 3028006,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-7",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-1adf798a-63d9-471e-844f-7b695c19ce95.png",
+      "file": "artifacts/card-art-originals/swords-7.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Seven of Swords. Scene: A wary figure in a rust-red cap quietly carries FIVE silver swords away from a camp while TWO remain planted behind, EXACTLY SEVEN swords, strategy and secrecy. Bottom parchment exact text on TWO lines: \"寶劍七 (Seven of Swords)\" and \"#策略 #隱瞞 #獨自行動\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.  Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture. CRITICAL CANVAS: output a narrow vertical 5:8 portrait image, matching the exact height-to-width ratio of the supplied Fool and Magician. The border must fill the canvas edge to edge, NO white side gutters, NO outer background. Do not copy any previous Seven card format. Request 1024 pixels wide and 1638 pixels tall. The ENTIRE CARD must itself be 5:8, not a 5:8 card pasted on a wider page.",
+      "repair": true,
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 992,
+      "height": 1586,
+      "bytes": 3241432,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-8",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-0b5959fb-0846-4904-8687-1aafe4997180.png",
+      "file": "artifacts/card-art-originals/swords-8.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Eight of Swords. Scene: A blindfolded woman loosely wrapped in cloth stands amid EXACTLY EIGHT upright silver swords in damp ground, with an open path nearby and castle far away, limiting beliefs, no injuries. Bottom parchment exact text on TWO lines: \"寶劍八 (Eight of Swords)\" and \"#受困 #自我設限 #無力感\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 992,
+      "height": 1586,
+      "bytes": 3248803,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-9",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-5ce3aa6a-ffd7-41fa-a1de-75629d430f2f.png",
+      "file": "artifacts/card-art-originals/swords-9.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Nine of Swords. Scene: A worried person sits upright in bed with hands covering their face, EXACTLY NINE silver swords mounted horizontally on the dark wall behind, embroidered celestial quilt, sleepless anxiety. Bottom parchment exact text on TWO lines: \"寶劍九 (Nine of Swords)\" and \"#焦慮 #失眠 #憂慮\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 992,
+      "height": 1586,
+      "bytes": 3191871,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-10",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-aa40e80f-0f33-4bca-8339-0b17189cc34a.png",
+      "file": "artifacts/card-art-originals/swords-10.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ten of Swords. Scene: A fallen cloaked figure lies peacefully on a rocky shore with EXACTLY TEN silver swords symbolically planted in the CLOAK, no blood or injury, dawn at the horizon, endings and renewal. Bottom parchment exact text on TWO lines: \"寶劍十 (Ten of Swords)\" and \"#痛苦結束 #低谷 #放下\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 992,
+      "height": 1586,
+      "bytes": 3141137,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-11",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-cca412fb-1239-4a8a-9a1c-9c5c55e42e94.png",
+      "file": "artifacts/card-art-originals/swords-11.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Page of Swords. Scene: An alert young messenger in windswept blue clothes stands on a grassy hill holding ONE upright silver sword, swift clouds and birds overhead, curiosity and vigilance. Bottom parchment exact text on TWO lines: \"寶劍侍者 (Page of Swords)\" and \"#求知 #警覺 #新想法\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 992,
+      "height": 1586,
+      "bytes": 3180202,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-12",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-5c337dad-32c6-4f21-a690-eb22038f13e8.png",
+      "file": "artifacts/card-art-originals/swords-12.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Knight of Swords. Scene: A determined armored knight charges on a white horse holding ONE raised silver sword, a billowing blue cape and dramatic clouds, swift action and ambition. Bottom parchment exact text on TWO lines: \"寶劍騎士 (Knight of Swords)\" and \"#果斷 #迅速 #抱負\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "references": [
+        "塔羅牌/fool.png",
+        "塔羅牌/magician.png"
+      ],
+      "width": 992,
+      "height": 1586,
+      "bytes": 3288673,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-13",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-77aee398-f5dd-4be9-9e21-559c190381f9.png",
+      "file": "artifacts/card-art-originals/swords-13.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Queen of Swords. Scene: A discerning queen sits on a carved stone throne holding ONE upright silver sword in one hand and extending the other hand openly, crisp clouds and a distant bird, clarity and boundaries. Bottom parchment exact text on TWO lines: \"寶劍皇后 (Queen of Swords)\" and \"#獨立 #清晰 #界線\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "references": [
+        "C:/Users/ga974/Downloads/tarot-card-main/tarot-card-main/塔羅牌/fool.png",
+        "C:/Users/ga974/Downloads/tarot-card-main/tarot-card-main/塔羅牌/magician.png"
+      ],
+      "repair": false,
+      "width": 992,
+      "height": 1586,
+      "bytes": 3198910,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    },
+    {
+      "id": "swords-14",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-2584c932-9558-4072-85f7-5ba64fb16f36.png",
+      "file": "artifacts/card-art-originals/swords-14.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: King of Swords. Scene: A wise king in navy robes sits on a carved stone throne holding ONE upright silver sword, oak trees and high clouds behind, calm authority and fair judgment. Bottom parchment exact text on TWO lines: \"寶劍國王 (King of Swords)\" and \"#理性 #權威 #公正\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture.",
+      "references": [
+        "C:/Users/ga974/Downloads/tarot-card-main/tarot-card-main/塔羅牌/fool.png",
+        "C:/Users/ga974/Downloads/tarot-card-main/tarot-card-main/塔羅牌/magician.png"
+      ],
+      "repair": false,
+      "width": 992,
+      "height": 1586,
+      "bytes": 3236023,
+      "validated": "Visually inspected: matching navy/gold engraved deck style, full card border, bilingual title, and symbolic scene."
+    }
+  ],
+  "discardedAttempts": [
+    {
+      "id": "swords-7",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-1138266f-e6da-4a9e-8b74-4165890a206d.png",
+      "file": "artifacts/card-art-originals/swords-7.png",
+      "prompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Seven of Swords. Scene: A wary figure in a rust-red cap quietly carries FIVE silver swords away from a camp while TWO remain planted behind, EXACTLY SEVEN swords, strategy and secrecy. Bottom parchment exact text on TWO lines: \"寶劍七 (Seven of Swords)\" and \"#策略 #隱瞞 #獨自行動\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references. Speed-conscious production: request 640x1024 portrait, moderate illustration detail, clean crisp ink silhouettes, simplified secondary scenery and fewer tiny celestial marks. Keep primary subject, object count, readable labels, gold frame and navy palette sharp. No ultra-dense hatching or photoreal texture."
+    },
+    {
+      "id": "swords-7",
+      "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e5d-62f7-7262-915a-4317db5723ed\\exec-69c2ac7d-815a-4997-aca1-71c9b14ba64c.png",
+      "file": "artifacts/card-art-originals/swords-7.png",
+      "prompt": "Use case: precise-object-edit. Edit the FIRST image, Seven of Swords tarot card. The SECOND image is the ORIGINAL DECK style reference. Correct ONLY the format/composition: deliver a COMPLETE TALL VERTICAL tarot card with EXACT 5:8 portrait aspect ratio (640 pixels wide by 1024 pixels tall requested), rather than the too-wide 4:5 original. Fill the entire tall portrait canvas. Keep the full ornate gold border, winged top corners and parchment scroll completely visible, never cropped. Recompose/extend sky vertically to achieve this, do not stretch the figure. Retain the cautious red-capped young man carrying EXACTLY FIVE silver swords with TWO more planted behind (SEVEN TOTAL), camp tents, river, midnight navy/gold hand-inked antique illustration. Keep title EXACTLY \"寶劍七 (Seven of Swords)\" and keywords EXACTLY \"#策略 #隱瞞 #獨自行動\". Crisp clean moderate illustration detail. IMPORTANT TALL PORTRAIT 5:8 whole card, NOT 4:5, NOT square.",
+      "references": [
+        "C:/Users/ga974/Downloads/tarot-card-main/tarot-card-main/artifacts/card-art-originals/swords-7.png",
+        "C:/Users/ga974/Downloads/tarot-card-main/tarot-card-main/塔羅牌/fool.png"
+      ],
+      "repair": true
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "generator": "ChatGPT built-in image generation",
+  "referenceImages": [
+    "塔羅牌/fool.png",
+    "塔羅牌/magician.png"
+  ],
+  "cards": [
+    {
+      "id": "wands-1",
+      "original": "artifacts/card-art-originals/wands-1.png",
+      "delivery": "塔羅牌/cards/wands-1.jpg",
+      "initialPrompt": "Use case: style-transfer. Create one complete portrait tarot card, Ace of Wands, replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Same flat front-facing 5:8 portrait composition; full card frame visible, no mockup or perspective. Subject: a luminous hand emerging from a soft cloud holding ONE tall living wooden wand sprouting fresh green leaves, over a distant mountain landscape and river at night. It represents inspiration, creativity, opportunity. Render actual detailed narrative illustration, not sparse vector pips. Bottom parchment exact text on two lines: \"權杖王牌 (Ace of Wands)\" and \"#靈感 #創造 #新契機\". Keep text readable and preserve Traditional Chinese. Exactly ONE wand. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-864f9284-de57-46b6-9b6c-335298f6c8b5.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-864f9284-de57-46b6-9b6c-335298f6c8b5.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-2",
+      "original": "artifacts/card-art-originals/wands-2.png",
+      "delivery": "塔羅牌/cards/wands-2.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Two of Wands. Scene: A cloaked traveler stands on a castle parapet holding a small globe, one wooden wand in hand and a second fixed to the stone wall, looking toward a moonlit sea; EXACTLY TWO wands. Bottom parchment exact text on TWO lines: \"權杖二 (Two of Wands)\" and \"#規劃 #遠見 #抉擇\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-cc1e41b5-8928-42e0-a729-9b4915d1e3a0.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-cc1e41b5-8928-42e0-a729-9b4915d1e3a0.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-3",
+      "original": "artifacts/card-art-originals/wands-3.png",
+      "delivery": "塔羅牌/cards/wands-3.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Three of Wands. Scene: A merchant in a rust-red cloak watches three ships depart a harbor from a rocky headland, surrounded by EXACTLY THREE upright wooden wands; anticipation and expansion. Bottom parchment exact text on TWO lines: \"權杖三 (Three of Wands)\" and \"#拓展 #遠行 #展望\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-49cd90fb-b4bf-430d-8ed9-b6ca6ac2622c.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-49cd90fb-b4bf-430d-8ed9-b6ca6ac2622c.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-4",
+      "original": "artifacts/card-art-originals/wands-4.png",
+      "delivery": "塔羅牌/cards/wands-4.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Four of Wands. Scene: EXACTLY FOUR tall flowering wands form a ceremonial arch with garlands above two joyful villagers raising bouquets; a warm castle and starry sky behind them; belonging and celebration. Bottom parchment exact text on TWO lines: \"權杖四 (Four of Wands)\" and \"#慶祝 #和諧 #歸屬\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-da6803be-4aa2-4e04-881c-d1a16ddd945b.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-da6803be-4aa2-4e04-881c-d1a16ddd945b.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-5",
+      "original": "artifacts/card-art-originals/wands-5.png",
+      "delivery": "塔羅牌/cards/wands-5.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Five of Wands. Scene: Five young adults in ochre and blue medieval clothes engage in a spirited practice contest on a hillside, each with one wooden wand; EXACTLY FIVE wands total; competitive energy without injury. Bottom parchment exact text on TWO lines: \"權杖五 (Five of Wands)\" and \"#競爭 #衝突 #磨合\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-b88b0193-acbe-4899-a05d-9b1ecb08c1f8.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-b88b0193-acbe-4899-a05d-9b1ecb08c1f8.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-6",
+      "original": "artifacts/card-art-originals/wands-6.png",
+      "delivery": "塔羅牌/cards/wands-6.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Six of Wands. Scene: A victorious rider on a white horse carries a wooden wand topped with a laurel wreath, surrounded by supporters carrying five more wands; EXACTLY SIX wands total; public recognition. Bottom parchment exact text on TWO lines: \"權杖六 (Six of Wands)\" and \"#勝利 #認可 #自信\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-aaec4e40-1093-4c10-882a-1f548d0e4c4d.png",
+      "corrections": [
+        {
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-fc98811e-ee36-4a7e-9aa5-b75af80d01e8.png",
+          "prompt": "Use case: precise-object-edit. This is the Six of Wands tarot card. Keep the entire existing card illustration, title, hashtags, navy and gold color scheme, border, central victorious rider, white horse and supporting people unchanged. There are currently only FIVE clearly visible wooden wands (one held by the rider and four held by the crowd). Add ONE more clearly visible upright sprouting wooden wand held by a background supporter, placed in the open sky just to the right of the main rider, so the final card has exactly SIX separate wands. Do not duplicate the laurel or change the pose. Preserve the bilingual parchment exactly: \"權杖六 (Six of Wands)\" and \"#勝利 #認可 #自信\". Crisp moderate-detail 640x1024 portrait suitable for mobile. This is a small correction, not a redesign."
+        }
+      ],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-fc98811e-ee36-4a7e-9aa5-b75af80d01e8.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-7",
+      "original": "artifacts/card-art-originals/wands-7.png",
+      "delivery": "塔羅牌/cards/wands-7.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Seven of Wands. Scene: A lone brave person in a teal tunic stands on high ground defending their position with one wooden wand held diagonally while six opponents' wands rise from below; EXACTLY SEVEN wands. Bottom parchment exact text on TWO lines: \"權杖七 (Seven of Wands)\" and \"#堅持 #防衛 #勇氣\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-0872b53a-deaf-47ae-b365-a55016cb44d4.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-0872b53a-deaf-47ae-b365-a55016cb44d4.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-8",
+      "original": "artifacts/card-art-originals/wands-8.png",
+      "delivery": "塔羅牌/cards/wands-8.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Eight of Wands. Scene: EXACTLY EIGHT long wooden wands fly diagonally through a clear midnight-blue sky above a rolling river landscape, dynamic parallel motion, sprouting leaves, no people. Bottom parchment exact text on TWO lines: \"權杖八 (Eight of Wands)\" and \"#迅速進展 #訊息 #行動\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-1c34756f-c5ed-4308-acc3-6273773c18d1.png",
+      "corrections": [
+        {
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-bce69dcd-fcab-4874-b5da-cfaf732bcdfa.png",
+          "prompt": "Use case: precise-object-edit. Fix the object count on this Eight of Wands tarot card. The current picture has NINE flying wooden wands, identifiable by nine separate round cut ends. Remove the LOWEST flying wand whose round cut end is near the bottom right of the group, leaving EXACTLY EIGHT flying wooden wands. Preserve the remaining eight wooden wands and their leaves, the landscape, the full ornate gold frame, navy starry background, and all text exactly. Do not replace a wand with a new one. Keep \"權杖八 (Eight of Wands)\" and \"#迅速進展 #訊息 #行動\". Full 5:8 portrait card, crisp moderate illustration detail. This is a minimal count correction."
+        },
+        {
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-0ac84985-1865-42d3-baae-e0d9da976f84.png",
+          "prompt": "Use case: precise-object-edit. Correct the central illustration of this Eight of Wands card. Keep the ornate gold border, navy starry sky, mountains, river, and parchment text unchanged. ERASE ALL the flying wooden wands currently shown. Redraw EXACTLY EIGHT wooden wands arranged as TWO CLEAR COLUMNS OF FOUR wands, pointing diagonally down and right. Left column: four separate short wooden wands, vertically spaced with clear sky between them. Right column: four separate short wooden wands, vertically spaced with clear sky between them. Four plus four equals eight total. No overlap, no ninth wand, no extra brown rods, each wand has two or three small leaves. This orderly eight-wand layout is essential. Preserve exact text \"權杖八 (Eight of Wands)\" and \"#迅速進展 #訊息 #行動\". Same crisp navy/gold antique engraved style, full 5:8 portrait card."
+        },
+        {
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-cfdc8a7f-9a67-47d8-b88f-4995f44fb364.png",
+          "prompt": "Use case: precise-object-edit. Keep this exact tarot card unchanged except ADD TWO wooden wands. There are SIX wooden wands in the current picture, arranged in two columns of three. ADD ONE wand directly beneath the left column, and ADD ONE wand directly beneath the right column, in the open dark sky immediately above the mountains. Match the existing wands' diagonal direction, wooden texture, green leaves and gold motion streaks. The final arrangement must be TWO COLUMNS OF FOUR = EIGHT wands total. Preserve all six existing wands and the entire background, border, title, hashtags. Do not remove or move anything. Two new wands are the ONLY change. Full 5:8 portrait, sharp readable art."
+        }
+      ],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-cfdc8a7f-9a67-47d8-b88f-4995f44fb364.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-9",
+      "original": "artifacts/card-art-originals/wands-9.png",
+      "delivery": "塔羅牌/cards/wands-9.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Nine of Wands. Scene: A weary watchful guardian with a cloth bandage on their head holds one wooden wand while eight stand upright behind them; EXACTLY NINE wands, persistence after hardship. Bottom parchment exact text on TWO lines: \"權杖九 (Nine of Wands)\" and \"#韌性 #警戒 #堅守\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-7cdb2b31-de45-44a7-ba81-acd079997374.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-7cdb2b31-de45-44a7-ba81-acd079997374.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-10",
+      "original": "artifacts/card-art-originals/wands-10.png",
+      "delivery": "塔羅牌/cards/wands-10.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Ten of Wands. Scene: A burdened traveler walks toward a distant village carrying a heavy bundle of EXACTLY TEN long wooden wands in both arms, the upper ends visibly separate; responsibility and effort. Bottom parchment exact text on TWO lines: \"權杖十 (Ten of Wands)\" and \"#重擔 #責任 #勞累\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-0d7db621-5e38-4bf8-8f9d-970765e140b3.png",
+      "corrections": [
+        {
+          "source": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-d5725010-06ad-4697-b429-9eb60564698e.png",
+          "prompt": "Use case: precise-object-edit. Correct this Ten of Wands tarot illustration with ONE small change. The current bundle has ELEVEN visible cut circular wand tips at its top. Remove ONE of the closely spaced foremost right-hand wands, leaving EXACTLY TEN clearly separate cut top ends and ten wooden stems in the bundle. Keep the traveler, pose, landscape, midnight-blue starry sky, gold ornate border, palette, text and entire layout unchanged. Preserve \"權杖十 (Ten of Wands)\" and \"#重擔 #責任 #勞累\". Keep full portrait 5:8 card, crisp moderate detail suitable for mobile. Do not add or remove any other object."
+        }
+      ],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-d5725010-06ad-4697-b429-9eb60564698e.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-11",
+      "original": "artifacts/card-art-originals/wands-11.png",
+      "delivery": "塔羅牌/cards/wands-11.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Page of Wands. Scene: A curious young messenger in a gold tunic and blue cloak stands in a dry landscape contemplating ONE tall flowering wand, discovery and creative curiosity. Bottom parchment exact text on TWO lines: \"權杖侍者 (Page of Wands)\" and \"#探索 #熱情 #新消息\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-a5389493-d567-4e68-803a-e080f2cc9888.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-a5389493-d567-4e68-803a-e080f2cc9888.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-12",
+      "original": "artifacts/card-art-originals/wands-12.png",
+      "delivery": "塔羅牌/cards/wands-12.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Knight of Wands. Scene: An energetic armored knight on a rearing chestnut horse carries ONE sprouting wooden wand, dusty red cloak billowing, pyramidal hills and distant stars, adventure and initiative. Bottom parchment exact text on TWO lines: \"權杖騎士 (Knight of Wands)\" and \"#冒險 #行動力 #激情\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-73d46077-d232-49ba-a0fe-8651d0de2b0f.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-73d46077-d232-49ba-a0fe-8651d0de2b0f.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-13",
+      "original": "artifacts/card-art-originals/wands-13.png",
+      "delivery": "塔羅牌/cards/wands-13.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: Queen of Wands. Scene: A self-assured queen in ochre and navy robes sits on a throne with lion carvings holding ONE sprouting wand and a sunflower, a black cat at her feet, warm confidence. Bottom parchment exact text on TWO lines: \"權杖皇后 (Queen of Wands)\" and \"#自信 #獨立 #魅力\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-0a9275e8-efb4-4d0b-8925-979828eae1d1.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-0a9275e8-efb4-4d0b-8925-979828eae1d1.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    },
+    {
+      "id": "wands-14",
+      "original": "artifacts/card-art-originals/wands-14.png",
+      "delivery": "塔羅牌/cards/wands-14.jpg",
+      "initialPrompt": "Use case: style-transfer. Create ONE complete portrait tarot card by replacing the subject of the reference cards while matching their exact deck design. The supplied Fool and Magician cards are STYLE REFERENCES ONLY. Match their hand-inked antique engraved storybook illustration, fine black hatching, navy midnight-blue starry sky, muted ochre gold and dusty red accents, intricate gold vine-and-star frame, winged upper corner ornaments, celestial sun/moon top medallion, and cream parchment scroll at the bottom. Flat front-facing 5:8 portrait composition; full card frame visible, no mockup, perspective, collage, or white margins. Render an actual detailed narrative illustration, not sparse vector pips. Preserve the subject's symbolic object count carefully. Card: King of Wands. Scene: A mature king in red and ochre robes sits on a carved lion-and-salamander throne holding ONE living wooden wand, desert mountains behind him, visionary leadership. Bottom parchment exact text on TWO lines: \"權杖國王 (King of Wands)\" and \"#領導 #遠見 #果斷\". Keep text readable and preserve Traditional Chinese. No watermark, no signature. The overall finish must plausibly belong to the same deck as both references.",
+      "initialSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-c8185c73-231b-48cc-a32b-92e23f805245.png",
+      "corrections": [],
+      "selectedSource": "C:\\Users\\ga974\\.codex\\generated_images\\01a18e47-a642-79c3-a7f5-0f2eddb511e2\\exec-c8185c73-231b-48cc-a32b-92e23f805245.png",
+      "qa": "Visually inspected: matching engraved navy/gold deck style, readable bilingual parchment, full portrait frame, correct rank/suit symbols."
+    }
+  ]
+}
