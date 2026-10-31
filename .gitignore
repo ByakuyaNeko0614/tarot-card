@@ -1,0 +1,5 @@
+# Generated previews and original artwork backups are not website assets.
+/artifacts/
+node_modules/
+.DS_Store
+Thumbs.db
