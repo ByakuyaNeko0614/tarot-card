@@ -269,3 +269,17 @@ dialog[open]::backdrop { animation:backdrop-arrive .36s ease-out; }
   #AIPrompt { min-height:160px; font-size:16px; }
   .prompt-details { padding:12px; }
 }
+
+/* Reading keepsakes and the same familiar font throughout the main heading. */
+h1 { font-family:inherit; font-weight:500; }
+.preferences { flex-wrap:wrap; }
+.save-reading { display:flex; align-items:center; flex-wrap:wrap; gap:12px; margin:14px 0 22px; }
+.save-reading button { min-height:44px; color:var(--gold); }
+.save-reading span { color:var(--muted); font-size:.78rem; }
+.save-reading button:disabled { opacity:.6; cursor:wait; }
+@media (max-width:640px) {
+  .preferences { gap:6px; }
+  .preferences select,.preferences button { padding:8px; font-size:.75rem; }
+  .save-reading { gap:8px; }
+  .save-reading button { width:100%; }
+}

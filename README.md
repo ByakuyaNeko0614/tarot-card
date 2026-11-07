@@ -33,6 +33,13 @@ The `.gitignore` keeps generated screenshots and original artwork backups in `ar
 
 ## Changelog
 
+### v2.1 (2026/11/08)
+
+- Added optional gentle draw, completion, and shuffle sounds; sound is off by default and the preference is saved locally.
+- Added PNG exports of completed one- or three-card readings, including artwork, positions, orientations, and meanings, without the question.
+- Changed the main heading to the same system font as the body.
+
+
 ### v2.0 (2026/10/31)
 
 - Completed all 78 bilingual cards with upright and reversed meanings; choose 22 major arcana or the full 78-card deck.

@@ -17,6 +17,7 @@
       <label class="sr-only" for="language" data-i18n="language">語言</label>
       <select id="language" aria-label="Language"><option value="zh">Chinese</option><option value="en">English</option></select>
       <button id="themeBtn" class="quiet-btn" type="button" aria-pressed="false">☀ 淺色模式</button>
+      <button id="soundBtn" class="quiet-btn" type="button" aria-pressed="false">音效：關</button>
     </div>
   </header>
   <main id="main">
@@ -68,6 +69,7 @@
       <div id="readingCards" aria-live="polite"></div>
       <p id="emptyHint" class="empty-hint" data-i18n="emptyHint">每一次提問，都是重新認識自己的起點。你的牌義會在抽牌後出現在這裡。</p>
       <div id="interpretationTools" hidden>
+      <div class="save-reading"><button id="saveReading" class="quiet-btn" type="button" data-i18n="saveReading">↓ 儲存牌陣圖片</button><span data-i18n="saveHint">圖片包含牌面與牌義，不包含你的問題。</span></div>
       <p class="interpretation-intro" data-i18n="interpretationIntro">想再深入一點？複製指令後，開啟 AI 並貼上，延續這段探索。</p>
       <details class="prompt-details" open><summary data-i18n="showPrompt">查看解讀指令</summary>
       <label class="prompt-label" for="AIPrompt" data-i18n="promptLabel">複製以下指令，請 AI 為你解牌：</label>
@@ -91,6 +93,6 @@
     <div class="preview-header"><h2 id="previewTitle"></h2><button id="closePreview" class="quiet-btn" type="button" data-i18n="closePreview">關閉</button></div>
     <img id="previewImage" alt="">
   </dialog>
-  <footer><p data-i18n="credits">大阿爾克那圖片由 Gemini 生成；小阿爾克那圖片由 ChatGPT 生成。網頁由白夜貓創作。</p><p>v2.0</p></footer>
+  <footer><p data-i18n="credits">大阿爾克那圖片由 Gemini 生成；小阿爾克那圖片由 ChatGPT 生成。網頁由白夜貓創作。</p><p>v2.1</p></footer>
 </body>
 </html>

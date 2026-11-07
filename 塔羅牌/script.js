@@ -3,6 +3,7 @@
   "use strict";
   const translations = {
     zh: {
+      soundOn: "音效：開", soundOff: "音效：關", saveReading: "↓ 儲存牌陣圖片", saveHint: "圖片包含牌面與牌義，不包含你的問題。", saving: "正在製作圖片…", saved: "牌陣圖片已準備下載。", saveFailed: "圖片儲存失敗，請稍後再試。",
       brand: "白夜貓塔羅", language: "語言", title: "讓直覺，為你引路。", pageTitle: "塔羅牌占卜 · 白夜貓",
       stepQuestion: "寫下問題", stepDraw: "憑直覺抽牌", stepRead: "閱讀指引", ideas: "還沒有靈感？",
       topicGrowth: "自我成長", topicWork: "工作方向", topicLove: "關係探索",
@@ -25,6 +26,7 @@
       questionRequired: "請先輸入你想問的問題。", resetDone: "已重新洗牌，可以開始新的占卜。", modeChanged: "已切換牌陣並重新洗牌。",
       spread: "塔羅牌", cardBack: "塔羅牌背面", drawCard: "選擇第 {n} 張牌", progress: "已抽 {count} / {limit} 張", deckInfo: "{count} 張牌隨機洗牌",
       history: [
+        ["v2.1 · 2026/11/08", ["新增可開關的輕柔抽牌、完成牌陣與洗牌音效，記住音效偏好。", "可將完成的牌陣與牌義儲存為 PNG 圖片，圖片不包含問題。", "主標題改用與內文相同的系統字體。"]],
         ["v2.0 · 2026/10/31", ["完整 78 張雙語塔羅牌與正逆位牌義，可選擇 22 張大阿爾克那或 78 張完整牌組。", "支援單張指引與過去／現在／未來三張牌陣，同一牌陣不會重複抽牌。", "56 張小阿爾克那由 ChatGPT 生成，延續原有大阿爾克那的星空、金框與版畫風格；原有大阿爾克那由 Gemini 生成。", "新增繁體中文（預設）／英文與深色（預設）／淺色模式；語言選單顯示 Chinese／English，並記住語言、外觀、牌組與重置偏好。", "重新設計深藍與香檳金介面，加入三步占卜進度、問題靈感、就地驗證提示、牌面縮圖與結果捷徑。", "優化手機排版、觸控區域與鍵盤操作，提供可放大的牌面預覽。", "新增柔和的主題漸變、按鈕按壓、複製成功回饋、解讀進場與牌面視窗開關動畫。", "切換牌組或單／三張模式會保留問題；只有重新洗牌才依保留問題設定決定是否清除。", "完成抽牌後顯示 AI 工具，指令包含問題、牌位、正逆位與對應牌義，指令面板預設展開；無法自動複製時可手動複製。", "壓縮牌面圖片並僅預載六張候選牌，加快手機載入；保留完整原圖。", "新增可展開的雙語更新紀錄，以及牌組規則與桌面／手機瀏覽器自動檢查。"]],
         ["v1.3 · 2026/08/30", ["預載牌面圖片，讓翻牌動畫更順暢。", "重置時可保留或清除問題。", "修正重置後顯示預留文字的問題。"]],
         ["v1.2 · 2026/03/20", ["重新設計介面，優化小螢幕操作。", "新增逆位關鍵字並修正錯字。"]],
@@ -32,6 +34,7 @@
       ]
     },
     en: {
+      soundOn: "Sound: on", soundOff: "Sound: off", saveReading: "↓ Save reading image", saveHint: "Includes cards and meanings, without your question.", saving: "Creating image…", saved: "Your reading image is ready to download.", saveFailed: "Could not save the image. Please try again.",
       brand: "Byakuya Neko Tarot", language: "Language", title: "Let intuition lead the way.", pageTitle: "Tarot Reading · Byakuya Neko",
       stepQuestion: "Set an intention", stepDraw: "Choose your cards", stepRead: "Find your guidance", ideas: "Need inspiration?",
       topicGrowth: "Personal growth", topicWork: "Work & purpose", topicLove: "Relationships",
@@ -54,6 +57,7 @@
       questionRequired: "Please enter your question first.", resetDone: "The deck is shuffled. Start a new reading.", modeChanged: "Spread changed and deck shuffled.",
       spread: "Tarot cards", cardBack: "Tarot card back", drawCard: "Choose card {n}", progress: "Drawn {count} / {limit}", deckInfo: "Shuffled from the {count}-card deck",
       history: [
+        ["v2.1 · 2026/11/08", ["Added optional gentle draw, completion, and shuffle sounds with a saved preference.", "Save a completed spread and its meanings as a PNG image, without the question.", "The main heading now uses the same system font as the body."]],
         ["v2.0 · 2026/10/31", ["Completed all 78 bilingual cards with upright and reversed meanings; choose 22 major arcana or the full 78-card deck.", "Added single-card guidance and Past / Present / Future spreads with no duplicate cards in a reading.", "Added 56 ChatGPT-generated minor arcana illustrations matching the original starry, gold-framed engraved style; original major arcana artwork remains credited to Gemini.", "Added Traditional Chinese (default) / English and dark (default) / light themes. Language options read Chinese / English; language, theme, deck, and reset preferences are saved locally.", "Redesigned the interface in midnight blue and champagne gold, with a three-step reading flow, question suggestions, inline validation, artwork thumbnails, and a shortcut to results.", "Improved mobile layouts, touch targets, and keyboard access, with large card previews.", "Added gentle theme transitions, button press feedback, copy-success feedback, reading entrance animations, and animated card preview opening and closing.", "Changing the deck or spread preserves the question. Only Shuffle again uses the keep-question preference to decide whether to clear it.", "AI tools appear after the spread is complete. Prompts include the question, positions, orientations, and matching meanings; the prompt panel opens by default, with manual copying available if automatic copying fails.", "Optimized delivery artwork and preloaded only six dealt faces for faster mobile loading, while preserving full-resolution originals.", "Added an expandable bilingual changelog and automated deck-rule and desktop/mobile browser checks."]],
         ["v1.3 · 2026/08/30", ["Preloaded card artwork for smoother reveals.", "Added a choice to keep or clear the question on reset.", "Fixed placeholders appearing after reset."]],
         ["v1.2 · 2026/03/20", ["Redesigned the interface and improved small-screen layouts.", "Added reversed keywords and corrected typos."]],
@@ -73,6 +77,41 @@
   const savedDeck = loadPreference("deck", "full") === "major" ? "major" : "full";
   let session = Tarot.createSession("single", Math.random, savedDeck);
   let noticeKey = "";
+  let soundEnabled = loadPreference("sound", "false") === "true";
+  let audioContext;
+  let soundGeneration = 0;
+  const voices = new Set();
+  async function playSound(kind) {
+    if (!soundEnabled) return;
+    const generation = soundGeneration;
+    try {
+      const Audio = window.AudioContext || window.webkitAudioContext;
+      if (!Audio) return;
+      audioContext ??= new Audio();
+      if (audioContext.state === "suspended") await audioContext.resume();
+      if (!soundEnabled || generation !== soundGeneration) return;
+      const notes = kind === "complete" ? [523.25, 659.25, 783.99] : kind === "shuffle" ? [220, 277.18, 329.63] : [659.25];
+      notes.forEach((frequency, index) => {
+        const oscillator = audioContext.createOscillator();
+        const gain = audioContext.createGain();
+        const start = audioContext.currentTime + index * .09;
+        oscillator.type = "sine";
+        oscillator.frequency.value = frequency;
+        gain.gain.setValueAtTime(0, start);
+        gain.gain.linearRampToValueAtTime(.035, start + .025);
+        gain.gain.exponentialRampToValueAtTime(.0001, start + .32);
+        oscillator.connect(gain).connect(audioContext.destination);
+        voices.add(oscillator);
+        oscillator.onended = () => { voices.delete(oscillator); oscillator.disconnect(); gain.disconnect(); };
+        oscillator.start(start);
+        oscillator.stop(start + .34);
+      });
+    } catch { /* Audio is optional; drawing remains available. */ }
+  }
+  function renderSound() {
+    $("soundBtn").textContent = t(soundEnabled ? "soundOn" : "soundOff");
+    $("soundBtn").setAttribute("aria-pressed", String(soundEnabled));
+  }
   const cardButtons = [];
   const t = key => translations[language][key];
   const orientation = draw => t(draw.isUpright ? "upright" : "reversed");
@@ -167,6 +206,7 @@
     cardButtons[slot].classList.add("flipped");
     showNotice("");
     renderReading();
+    playSound(session.draws.length === session.limit ? "complete" : "draw");
   }
 
   function renderReading() {
@@ -253,6 +293,7 @@
       $("changelogContent").append(heading, list);
     });
     renderTheme();
+    renderSound();
     renderReading();
     showNotice(noticeKey);
   }
@@ -273,7 +314,81 @@
     createCards();
     renderReading();
     showNotice(message);
+    playSound("shuffle");
   }
+
+  $("soundBtn").addEventListener("click", () => {
+    soundEnabled = !soundEnabled;
+    soundGeneration++;
+    savePreference("sound", String(soundEnabled));
+    renderSound();
+    if (soundEnabled) playSound("draw");
+    else voices.forEach(voice => { try { voice.stop(); } catch {} });
+  });
+
+  $("saveReading").addEventListener("click", async () => {
+    if (session.draws.length !== session.limit) return;
+    const reading = session, lang = language;
+    const button = $("saveReading");
+    button.disabled = true;
+    showNotice("saving");
+    try {
+      const images = await Promise.all(reading.draws.map(draw => new Promise((resolve, reject) => {
+        const img = new Image();
+        img.onload = () => resolve(img);
+        img.onerror = reject;
+        img.src = draw.card.image;
+      })));
+      if (reading !== session || lang !== language) return;
+      const canvas = document.createElement("canvas");
+      canvas.width = 1200; canvas.height = 1100;
+      const ctx = canvas.getContext("2d");
+      ctx.fillStyle = "#0b1220"; ctx.fillRect(0, 0, 1200, 1100);
+      ctx.strokeStyle = "#e3c58c"; ctx.strokeRect(28, 28, 1144, 1044);
+      ctx.textAlign = "center";
+      ctx.fillStyle = "#e3c58c"; ctx.font = "32px sans-serif";
+      ctx.fillText(translations[lang].brand, 600, 92);
+      ctx.font = "20px sans-serif";
+      ctx.fillText(new Date().toLocaleDateString(lang === "zh" ? "zh-TW" : "en-US"), 600, 132);
+      function lines(text, x, y, width, size) {
+        ctx.font = `${size}px sans-serif`;
+        let line = "";
+        const units = lang === "en" ? text.match(/\S+\s*/g) || [] : Array.from(text);
+        for (const char of units) {
+          if (ctx.measureText(line + char).width > width && line) {
+            ctx.fillText(line, x, y); y += size * 1.5; line = "";
+          }
+          line += char;
+        }
+        if (line) ctx.fillText(line, x, y);
+      }
+      reading.draws.forEach((draw, index) => {
+        const x = reading.limit === 1 ? 600 : 230 + index * 370;
+        ctx.save(); ctx.translate(x, 450);
+        if (!draw.isUpright) ctx.rotate(Math.PI);
+        ctx.drawImage(images[index], -160, -256, 320, 512); ctx.restore();
+        ctx.fillStyle = "#e3c58c"; ctx.font = "22px sans-serif";
+        ctx.fillText(translations[lang][reading.limit === 1 ? "single" : ["past", "present", "future"][index]], x, 758);
+        ctx.fillStyle = "#eee9df";
+        lines(draw.card.name[lang], x, 804, 330, 24);
+        ctx.font = "20px sans-serif";
+        ctx.fillText(translations[lang][draw.isUpright ? "upright" : "reversed"], x, 882);
+        ctx.fillStyle = "#a9b3c4";
+        lines(draw.card[draw.isUpright ? "upright" : "reversed"][lang], x, 930, 330, 18);
+      });
+      const blob = await new Promise(resolve => canvas.toBlob(resolve, "image/png"));
+      if (!blob) throw new Error("Image encoding failed");
+      if (reading !== session || lang !== language) return;
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+      link.href = url; link.download = `byakuya-neko-tarot-${Date.now()}.png`;
+      document.body.append(link); link.click(); link.remove();
+      setTimeout(() => URL.revokeObjectURL(url), 60000);
+      showNotice("saved");
+    } catch {
+      if (reading === session && lang === language) showNotice("saveFailed");
+    } finally { button.disabled = false; }
+  });
 
   $("question").addEventListener("input", () => {
     $("question").removeAttribute("aria-invalid");

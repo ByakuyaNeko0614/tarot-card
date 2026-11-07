@@ -101,6 +101,13 @@ async function main() {
       return;
     }
     await navigate();
+    assert.equal(await evaluate('getComputedStyle(document.querySelector("h1")).fontFamily === getComputedStyle(document.body).fontFamily'), true);
+    assert.equal(await evaluate('document.getElementById("soundBtn").getAttribute("aria-pressed")'), 'false');
+    await evaluate('document.getElementById("soundBtn").click()');
+    assert.equal(await evaluate('localStorage.getItem("tarot-sound")'), 'true');
+    await navigate();
+    assert.equal(await evaluate('document.getElementById("soundBtn").getAttribute("aria-pressed")'), 'true');
+    await evaluate('document.getElementById("soundBtn").click()');
     assert.deepEqual(await evaluate('[document.documentElement.lang, document.documentElement.dataset.theme, document.querySelectorAll(".tarot-card").length]'), ['zh-Hant', 'dark', 6]);
     assert.equal(await evaluate('document.querySelector("#language option[value=zh]").textContent'), 'Chinese');
     assert.equal(await evaluate('document.getElementById("deckType").value'), 'full');
@@ -131,6 +138,16 @@ async function main() {
     assert.equal(await evaluate('document.getElementById("stepRead").getAttribute("aria-current")'), 'step');
     assert.equal(await evaluate('document.querySelector(".prompt-details").open'), true);
     assert.equal(await evaluate('document.querySelectorAll(".reading-thumbnail").length'), 1);
+    // Capture the actual PNG blob instead of downloading during automation.
+    await evaluate('window.realCreateObjectURL = URL.createObjectURL; URL.createObjectURL = blob => { window.readingBlob = blob; return window.realCreateObjectURL(blob); }; window.realAnchorClick = HTMLAnchorElement.prototype.click; HTMLAnchorElement.prototype.click = function() { if (!this.download) return window.realAnchorClick.call(this); window.downloadName = this.download; }; document.getElementById("saveReading").click()');
+    for (let attempt = 0; attempt < 100; attempt++) {
+      if (await evaluate('!!window.downloadName')) break;
+      await new Promise(resolve => setTimeout(resolve, 50));
+    }
+    assert.ok((await evaluate('window.downloadName')).endsWith('.png'));
+    assert.deepEqual(await evaluate('createImageBitmap(window.readingBlob).then(image => [image.width, image.height])'), [1200, 1100]);
+    const exportImage = await evaluate('new Promise(resolve => { const reader = new FileReader(); reader.onload = () => resolve(reader.result); reader.readAsDataURL(window.readingBlob); })');
+    fs.writeFileSync(path.join(output, 'reading-export.png'), Buffer.from(exportImage.split(',')[1], 'base64'));
     await evaluate('document.querySelector(".preview-btn").click()');
     assert.equal(await evaluate('document.getElementById("cardPreview").open'), true);
     assert.equal(await evaluate('document.getElementById("previewImage").getAttribute("src")'), await evaluate('document.querySelector(".card-front img").getAttribute("src")'));
@@ -155,6 +172,21 @@ async function main() {
     assert.equal(await evaluate('document.querySelectorAll(".flipped").length'), 3);
     const three = await evaluate('document.getElementById("AIPrompt").value');
     for (const position of ['Past:', 'Present:', 'Future:']) assert.ok(three.includes(position));
+    await evaluate('window.downloadName = null; document.getElementById("saveReading").click()');
+    for (let attempt = 0; attempt < 100; attempt++) {
+      if (await evaluate('!!window.downloadName')) break;
+      await new Promise(resolve => setTimeout(resolve, 50));
+    }
+    assert.ok(await evaluate('!!window.downloadName'), 'Three-card export succeeds');
+    const threeImage = await evaluate('new Promise(resolve => { const reader = new FileReader(); reader.onload = () => resolve(reader.result); reader.readAsDataURL(window.readingBlob); })');
+    fs.writeFileSync(path.join(output, 'reading-export-three.png'), Buffer.from(threeImage.split(',')[1], 'base64'));
+    await evaluate('window.realToBlob = HTMLCanvasElement.prototype.toBlob; HTMLCanvasElement.prototype.toBlob = callback => callback(null); document.getElementById("saveReading").click()');
+    for (let attempt = 0; attempt < 100; attempt++) {
+      if (await evaluate('!document.getElementById("saveReading").disabled')) break;
+      await new Promise(resolve => setTimeout(resolve, 50));
+    }
+    assert.ok((await evaluate('document.getElementById("notice").textContent')).includes('Could not save'));
+    await evaluate('HTMLCanvasElement.prototype.toBlob = window.realToBlob');
     const names = await evaluate('Array.from(document.querySelectorAll(".card-front img"), image => image.src)');
     assert.equal(new Set(names).size, 3);
     // Switching decks clears completed and partial readings, keeps the spread,
